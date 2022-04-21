@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Test Aplication</string>
+    <string name="label_input_number_title">Introduce tu numero</string>
+    <string name="btn_label_verify">Verificar</string>
 </resources>
